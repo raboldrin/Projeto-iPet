@@ -1,0 +1,1 @@
+esses são os arquivos da interface, não tem o schema do banco de dados, mas tem um arquivo dentro em application/controllers/Product.php que da para recriar o banco com base nos campos desse arquivo
